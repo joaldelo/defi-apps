@@ -1,0 +1,46 @@
+.exit
+ethers.formatEther(ts)
+ethers.formatEther()
+ethers.formatEther(ts)
+ethers.utils.formatEther()
+ethers.utils.formatEther(ts)
+const { ethers } = require("hardhat");
+ethers.utils.formatEther(ts)
+ts
+ts = await contract.totalSupply()
+ethers.utils.formatEther(await contract.totalSupply())
+ethers.utils.formatEther(totalSupply)
+await contract.totalSupply()
+await contract.symbol()
+await contract.name()
+await contract.getAddress()
+const contract = await ethers.getContractAt("SimpleDeFiToken", "0x5FbDB2315678afecb367f032d93F642f64180aa3")
+.exit
+exit
+exit.
+await contract.name()
+contract.address
+const contract = await ethers.getContractAt("SimpleDeFiToken", "0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512")
+.exit
+const contract = await ethers.getContractAt("SimpleDeFiToken", "0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512")
+name = await contract.name.toString()
+name = await contract.valueOf("name")
+name = await contract.name()
+await contract.name
+await contract.name()
+addy
+addy = await contract.getAddress()
+contract.getAddress()
+contract.getAddress
+contract.address
+const contract = await ethers.getContractAt("SimpleDeFiToken", "0x90083Be10FDa658eA59034e910cB00ed5F578975")
+.exit
+.ext
+quit()
+exit()
+\que
+que
+quit
+exit
+const contract = await ethers.getContractAt("SimpleDeFiToken")
+const contract = await ethers.getContractAt("SimpleDefiToken")
